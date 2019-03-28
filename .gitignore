@@ -1,0 +1,9 @@
+Library/
+Temp/
+obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+Learn_Unity_Shader.sln
+obj/Debug/project.razor.json
+Assembly-CSharp.csproj
+.vscode/settings.json
+.vscode/launch.json
